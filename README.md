@@ -1,1 +1,3 @@
-# Landing page with email sign up (Bootstrap)
+# Landing page (Bootstrap)
+
+you can add email sign up with Mailchimp
